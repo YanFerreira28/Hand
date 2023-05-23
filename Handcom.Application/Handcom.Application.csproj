@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Handcom.Domain\Handcom.Domain.csproj" />
+    <ProjectReference Include="..\Handcom.Infra\Handcom.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Application.deps.json
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Application.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Application.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Domain.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Infra.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Domain.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\bin\Debug\net5.0\Handcom.Infra.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.csproj.AssemblyReference.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.AssemblyInfoInputs.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.AssemblyInfo.cs
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.csproj.CoreCompileInputs.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.csproj.CopyComplete
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\refint\Handcom.Application.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\Handcom.Application.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Application\obj\Debug\net5.0\ref\Handcom.Application.dll

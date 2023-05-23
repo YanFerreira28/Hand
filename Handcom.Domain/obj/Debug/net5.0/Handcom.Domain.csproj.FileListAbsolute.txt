@@ -1,0 +1,12 @@
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\bin\Debug\net5.0\Handcom.Domain.deps.json
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\bin\Debug\net5.0\Handcom.Domain.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\bin\Debug\net5.0\Handcom.Domain.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.csproj.AssemblyReference.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.AssemblyInfoInputs.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.AssemblyInfo.cs
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\refint\Handcom.Domain.dll
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\Handcom.Domain.pdb
+C:\Users\BSI95322\source\repos\Handcom.API\Handcom.Domain\obj\Debug\net5.0\ref\Handcom.Domain.dll

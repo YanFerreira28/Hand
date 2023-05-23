@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Handcom.Domain/1.0.0": {
+        "runtime": {
+          "Handcom.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Handcom.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>@ViewData["Title"] - Handcom</title>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <form style="position:relative; top:200px;">
+
+            <div class="text-center">
+                <h1>Tela de Login</h1>
+            </div>
+            <br />
+            <!-- Email input -->
+            <div class="form-outline mb-4">
+                <input type="email" id="Email" name="Email" class="form-control" />
+                <label class="form-label" for="Email">Email address</label>
+            </div>
+
+            <!-- Password input -->
+            <div class="form-outline mb-4">
+                <input type="password" id="Password" name="Password" class="form-control" />
+                <label class="form-label" for="Password">Password</label>
+            </div>
+
+            <!-- Submit button -->
+            <button type="button" class="btn btn-primary btn-block mb-4" name="entrar" id="entrar" onclick="CallFunctionLogin()">Entrar</button>
+
+            <!-- Register buttons -->
+            <div class="text-center">
+                <p>Não tem conta? <a href="@Url.Action("Register", "Login")">Registrar</a></p>
+            </div>
+        </form>
+    </main>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/js/login.js"></script>
